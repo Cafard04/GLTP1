@@ -1,4 +1,5 @@
-@echo off
+@echo offEAD
 echo "paul"
 pause
-exit
+
+
