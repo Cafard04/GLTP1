@@ -1,4 +1,4 @@
 @echo off
-echo "HEllo word"
+echo "Karen"
 pause
 exit
